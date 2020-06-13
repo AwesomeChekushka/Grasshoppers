@@ -1,7 +1,3 @@
-//
-// Created by Chekushka on 31.05.2020.
-//
-
 #include <cmath>
 #include "Vector2f.h"
 
